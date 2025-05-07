@@ -52,9 +52,9 @@ This project is a machine learning-based web application that predicts the selli
 1) Download all the files and save in a folder i.e Projects.
 2) Open anaconda prompt, get the system control to your directory.
 3) Create and activate a virtual environment using the following command
-    conda create -n House_price python=3.10
-    conda activate House_price
+    - conda create -n House_price python=3.10
+    - conda activate House_price
 4) Install all the libraries and dependancies in your environment
-    pip install streamlit numpy scikit-learn joblib
+    - pip install streamlit numpy scikit-learn joblib
 5) Open the "streamlit_app" file in your vs-code and run the following command in the terminal
-   streamlit run streamlit_app.py
+   - streamlit run streamlit_app.py
