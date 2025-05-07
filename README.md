@@ -4,5 +4,4 @@ This project is a machine learning-based web application that predicts the selli
 
 ---
 ## 🚀 Demo
-![App Screenshot](images/Input.PNG)
 ![App Screenshot](images/Output.PNG)
